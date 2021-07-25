@@ -26,6 +26,10 @@ author_website_url: 'http://jlykos.github.io/plantilla-cv'
 author_website_url_text: CV
 typewrite-text: No conocemos una millonésima parte del uno por ciento de nada.
 home_slider:
+  - logo: Analista_de_datos.png
+    title: Analista de datos
+    url: /assets/img/certificados/Analista_de_datos.png
+    visibility: true
   - logo: desarrollador_de_videojuegos.pngg
     title: Desarrollador de videojuegos
     url: /assets/img/certificados/desarrollador_de_videojuegos.png
@@ -65,10 +69,6 @@ home_slider:
   - logo: introduccion-a-git-y-github.jpg
     title: Introduccion a Git y Github
     url: https://www.udemy.com/certificate/UC-bcfb0835-5ada-4f85-8f81-80785625a05c/
-    visibility: true
-  - logo: introduccion-a-iot.png
-    title: Introduccion a IoT
-    url: /assets/img/certificados/introduccion-a-iot.png
     visibility: true
 author_work_experiences:
   - company_name: Autonomo
